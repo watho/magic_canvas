@@ -1,18 +1,18 @@
 name: magic_canvas
 description: Flutter package supports drawing canvas shapes such as squares, circles, lines,...
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/mag1c-dev/magic_canvas
 
 environment:
-  sdk: '>=2.19.3 <3.0.0'
+  sdk: '>=3.0.0 <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.2
+  cupertino_icons: ^1.0.6
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^3.0.2
